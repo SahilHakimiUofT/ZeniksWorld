@@ -1,0 +1,1820 @@
+fileFormatVersion: 2
+guid: d8474d1989cf4d440a1eb7606397d8d8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4613081007045388026
+    second: magnetLVL_tileset_0
+  - first:
+      213: 2804112016450191168
+    second: magnetLVL_tileset_1
+  - first:
+      213: -7861143016624748443
+    second: magnetLVL_tileset_2
+  - first:
+      213: 2836849541935214503
+    second: magnetLVL_tileset_3
+  - first:
+      213: -3618612819835129667
+    second: magnetLVL_tileset_4
+  - first:
+      213: -2347379412505871771
+    second: magnetLVL_tileset_5
+  - first:
+      213: -7284574630861986611
+    second: magnetLVL_tileset_6
+  - first:
+      213: 2139798578151245237
+    second: magnetLVL_tileset_7
+  - first:
+      213: -9029419214662788502
+    second: magnetLVL_tileset_8
+  - first:
+      213: -2887396943387929349
+    second: magnetLVL_tileset_9
+  - first:
+      213: -6879223010768176600
+    second: magnetLVL_tileset_10
+  - first:
+      213: 6566801896298245302
+    second: magnetLVL_tileset_11
+  - first:
+      213: 822064960253322040
+    second: magnetLVL_tileset_12
+  - first:
+      213: 805994305183131387
+    second: magnetLVL_tileset_13
+  - first:
+      213: -3076958220676241509
+    second: magnetLVL_tileset_14
+  - first:
+      213: -5030005689911199783
+    second: magnetLVL_tileset_15
+  - first:
+      213: -5544496307009505589
+    second: magnetLVL_tileset_16
+  - first:
+      213: -5671071102464526130
+    second: magnetLVL_tileset_17
+  - first:
+      213: 417631222583121103
+    second: magnetLVL_tileset_18
+  - first:
+      213: -5562176348882906255
+    second: magnetLVL_tileset_19
+  - first:
+      213: 760086687945563464
+    second: magnetLVL_tileset_20
+  - first:
+      213: -7905169129227231853
+    second: magnetLVL_tileset_21
+  - first:
+      213: 8475218276423524054
+    second: magnetLVL_tileset_22
+  - first:
+      213: 6104782336298479748
+    second: magnetLVL_tileset_23
+  - first:
+      213: 969624694144299089
+    second: magnetLVL_tileset_24
+  - first:
+      213: -7381553248703773630
+    second: magnetLVL_tileset_25
+  - first:
+      213: 6183480566472005395
+    second: magnetLVL_tileset_26
+  - first:
+      213: -3950531849355350048
+    second: magnetLVL_tileset_27
+  - first:
+      213: 2304575209281689223
+    second: magnetLVL_tileset_28
+  - first:
+      213: -7570593950650819862
+    second: magnetLVL_tileset_29
+  - first:
+      213: -5930502863202837634
+    second: magnetLVL_tileset_30
+  - first:
+      213: -1279552029697946205
+    second: magnetLVL_tileset_31
+  - first:
+      213: 4149853837273124977
+    second: magnetLVL_tileset_32
+  - first:
+      213: 3788100695292608410
+    second: magnetLVL_tileset_33
+  - first:
+      213: 5793470181379563117
+    second: magnetLVL_tileset_34
+  - first:
+      213: 2655572773067477187
+    second: magnetLVL_tileset_35
+  - first:
+      213: -3830176784597863041
+    second: magnetLVL_tileset_36
+  - first:
+      213: 5405016833487237007
+    second: magnetLVL_tileset_37
+  - first:
+      213: -790793344128802179
+    second: magnetLVL_tileset_38
+  - first:
+      213: 115725892288317987
+    second: magnetLVL_tileset_39
+  - first:
+      213: -6906636572272005307
+    second: magnetLVL_tileset_40
+  - first:
+      213: -626196480160897303
+    second: magnetLVL_tileset_41
+  - first:
+      213: -3727930290303229713
+    second: magnetLVL_tileset_42
+  - first:
+      213: -6690497534713271888
+    second: magnetLVL_tileset_43
+  - first:
+      213: -6194713671941935591
+    second: magnetLVL_tileset_44
+  - first:
+      213: 6197181130457551698
+    second: magnetLVL_tileset_45
+  - first:
+      213: 6948140787503587035
+    second: magnetLVL_tileset_46
+  - first:
+      213: 8234289896033373832
+    second: magnetLVL_tileset_47
+  - first:
+      213: 8856233696240135794
+    second: magnetLVL_tileset_48
+  - first:
+      213: -9211548513500720075
+    second: magnetLVL_tileset_49
+  - first:
+      213: -4410280354864329716
+    second: magnetLVL_tileset_50
+  - first:
+      213: -6312936181086779747
+    second: magnetLVL_tileset_51
+  - first:
+      213: 1459827070321242473
+    second: magnetLVL_tileset_52
+  - first:
+      213: -5651695227917025530
+    second: magnetLVL_tileset_53
+  - first:
+      213: 3895491297512766228
+    second: magnetLVL_tileset_54
+  - first:
+      213: -4746261376022403362
+    second: magnetLVL_tileset_55
+  - first:
+      213: -5916899705291540757
+    second: magnetLVL_tileset_56
+  - first:
+      213: -3383789163055052828
+    second: magnetLVL_tileset_57
+  - first:
+      213: 4152573302779374533
+    second: magnetLVL_tileset_58
+  - first:
+      213: 7232224707303028472
+    second: magnetLVL_tileset_59
+  - first:
+      213: -1849990769527007595
+    second: magnetLVL_tileset_60
+  - first:
+      213: -6217389259079562155
+    second: magnetLVL_tileset_61
+  - first:
+      213: -1143630095879694156
+    second: magnetLVL_tileset_62
+  - first:
+      213: 1273200288245629135
+    second: magnetLVL_tileset_63
+  - first:
+      213: 6676675406559891619
+    second: magnetLVL_tileset_64
+  - first:
+      213: -2373675138665068062
+    second: magnetLVL_tileset_65
+  - first:
+      213: 2724801679773572810
+    second: magnetLVL_tileset_66
+  - first:
+      213: 1775500941797699261
+    second: magnetLVL_tileset_67
+  - first:
+      213: -8046415949010835952
+    second: magnetLVL_tileset_68
+  - first:
+      213: 4281975485510108147
+    second: magnetLVL_tileset_69
+  - first:
+      213: -6972085816516712029
+    second: magnetLVL_tileset_70
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: magnetLVL_tileset_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 171
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af6aa091cb4f40040800000000000000
+      internalID: 4613081007045388026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnetLVL_tileset_1
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 171
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04ffaeaa5053ae620800000000000000
+      internalID: 2804112016450191168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnetLVL_tileset_2
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 171
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5680a85931c97e290800000000000000
+      internalID: -7861143016624748443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnetLVL_tileset_3
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 171
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7af274cc0a38e5720800000000000000
+      internalID: 2836849541935214503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnetLVL_tileset_4
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 171
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db07d0600da18cdc0800000000000000
+      internalID: -3618612819835129667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnetLVL_tileset_5
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 171
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56ab58c7cde6c6fd0800000000000000
+      internalID: -2347379412505871771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnetLVL_tileset_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 153
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc426a3f7fdf7ea90800000000000000
+      internalID: -7284574630861986611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnetLVL_tileset_7
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 153
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b5479d387712bd10800000000000000
+      internalID: 2139798578151245237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnetLVL_tileset_8
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 153
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6a10fd601f01b280800000000000000
+      internalID: -9029419214662788502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnetLVL_tileset_9
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 153
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf450df27c7ede7d0800000000000000
+      internalID: -2887396943387929349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnetLVL_tileset_10
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 153
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82a38709e171880a0800000000000000
+      internalID: -6879223010768176600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnetLVL_tileset_11
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 153
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bce7334887f12b50800000000000000
+      internalID: 6566801896298245302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnetLVL_tileset_12
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 153
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 833e132d9bf886b00800000000000000
+      internalID: 822064960253322040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnetLVL_tileset_13
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 153
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf6ad6bdc877f2b00800000000000000
+      internalID: 805994305183131387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnetLVL_tileset_14
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 153
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b97efdbfcc27c45d0800000000000000
+      internalID: -3076958220676241509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnetLVL_tileset_15
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 153
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d736a2a974d13ab0800000000000000
+      internalID: -5030005689911199783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnetLVL_tileset_16
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 153
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc6bb3a1cfdfd03b0800000000000000
+      internalID: -5544496307009505589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnetLVL_tileset_17
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 153
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec87e9101ee4c41b0800000000000000
+      internalID: -5671071102464526130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnetLVL_tileset_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 135
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc4dd2d5269bbc500800000000000000
+      internalID: 417631222583121103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnetLVL_tileset_19
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 135
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17351c2941e2fc2b0800000000000000
+      internalID: -5562176348882906255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnetLVL_tileset_20
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 135
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84d9f79c0de5c8a00800000000000000
+      internalID: 760086687945563464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnetLVL_tileset_21
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 135
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39dd6037f823b4290800000000000000
+      internalID: -7905169129227231853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnetLVL_tileset_22
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 135
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6de5f186e160e9570800000000000000
+      internalID: 8475218276423524054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnetLVL_tileset_23
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 135
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 480762ab03b88b450800000000000000
+      internalID: 6104782336298479748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnetLVL_tileset_24
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 135
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 150fae3a58cc47d00800000000000000
+      internalID: 969624694144299089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnetLVL_tileset_25
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 135
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2448160fd647f8990800000000000000
+      internalID: -7381553248703773630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnetLVL_tileset_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 117
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 317581050d220d550800000000000000
+      internalID: 6183480566472005395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnetLVL_tileset_27
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 117
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0efae4db634ec29c0800000000000000
+      internalID: -3950531849355350048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnetLVL_tileset_28
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 117
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 786186351fe7bff10800000000000000
+      internalID: 2304575209281689223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnetLVL_tileset_29
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 117
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aea9cb0a9e8dfe690800000000000000
+      internalID: -7570593950650819862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnetLVL_tileset_30
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 117
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7b9b5b211f92bda0800000000000000
+      internalID: -5930502863202837634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnetLVL_tileset_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ad4936553e1e3ee0800000000000000
+      internalID: -1279552029697946205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnetLVL_tileset_32
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 170d470041e379930800000000000000
+      internalID: 4149853837273124977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnetLVL_tileset_33
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9f735c1389029430800000000000000
+      internalID: 3788100695292608410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnetLVL_tileset_34
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6e52f15f6a866050800000000000000
+      internalID: 5793470181379563117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnetLVL_tileset_35
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c0d2e50e5d7ad420800000000000000
+      internalID: 2655572773067477187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnetLVL_tileset_36
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f75b81fe18a78dac0800000000000000
+      internalID: -3830176784597863041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnetLVL_tileset_37
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 70
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8f630d4c2a720b40800000000000000
+      internalID: 5405016833487237007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnetLVL_tileset_38
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 70
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d72a570b4a98605f0800000000000000
+      internalID: -790793344128802179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnetLVL_tileset_39
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 70
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32a092df5142b9100800000000000000
+      internalID: 115725892288317987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnetLVL_tileset_40
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 70
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54f610561a2b620a0800000000000000
+      internalID: -6906636572272005307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnetLVL_tileset_41
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 70
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e6e8687e9d4f47f0800000000000000
+      internalID: -626196480160897303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnetLVL_tileset_42
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 70
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe0ae03072bb34cc0800000000000000
+      internalID: -3727930290303229713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnetLVL_tileset_43
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 70
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b9e9c0a0f39623a0800000000000000
+      internalID: -6690497534713271888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnetLVL_tileset_44
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 48
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91e25a28cb4f70aa0800000000000000
+      internalID: -6194713671941935591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnetLVL_tileset_45
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 36
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2531da1776fc00650800000000000000
+      internalID: 6197181130457551698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnetLVL_tileset_46
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 36
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdedd80cb31cc6060800000000000000
+      internalID: 6948140787503587035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnetLVL_tileset_47
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 36
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88e48a68803164270800000000000000
+      internalID: 8234289896033373832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnetLVL_tileset_48
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 36
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27eec38df99a7ea70800000000000000
+      internalID: 8856233696240135794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnetLVL_tileset_49
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 30
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 534138d8e610a2080800000000000000
+      internalID: -9211548513500720075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnetLVL_tileset_50
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 34
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0c8d6842698bc2c0800000000000000
+      internalID: -4410280354864329716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnetLVL_tileset_51
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 30
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d968c9c9df1f368a0800000000000000
+      internalID: -6312936181086779747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnetLVL_tileset_52
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 30
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9613ff76cf8524410800000000000000
+      internalID: 1459827070321242473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnetLVL_tileset_53
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 30
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60f3c3952252191b0800000000000000
+      internalID: -5651695227917025530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnetLVL_tileset_54
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 34
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41bbfd522b09f0630800000000000000
+      internalID: 3895491297512766228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnetLVL_tileset_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed6270fdc64e12eb0800000000000000
+      internalID: -4746261376022403362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnetLVL_tileset_56
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be6fb7e2113f2eda0800000000000000
+      internalID: -5916899705291540757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnetLVL_tileset_57
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 16
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e7894d2fad5a01d0800000000000000
+      internalID: -3383789163055052828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnetLVL_tileset_58
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 16
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cb6fe7ea67e0a930800000000000000
+      internalID: 4152573302779374533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnetLVL_tileset_59
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 12
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f6b996ad060e5460800000000000000
+      internalID: 7232224707303028472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnetLVL_tileset_60
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 18
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 596579062338356e0800000000000000
+      internalID: -1849990769527007595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnetLVL_tileset_61
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 18
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55ccb36f86567b9a0800000000000000
+      internalID: -6217389259079562155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnetLVL_tileset_62
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 18
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b815acac720120f0800000000000000
+      internalID: -1143630095879694156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnetLVL_tileset_63
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 18
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc04ecc9ae05ba110800000000000000
+      internalID: 1273200288245629135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnetLVL_tileset_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a0d69068e058ac50800000000000000
+      internalID: 6676675406559891619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnetLVL_tileset_65
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 2
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e941b3a9030f0fd0800000000000000
+      internalID: -2373675138665068062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnetLVL_tileset_66
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 0
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ace9a4ee0b070d520800000000000000
+      internalID: 2724801679773572810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnetLVL_tileset_67
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbe293613b8d3a810800000000000000
+      internalID: 1775500941797699261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnetLVL_tileset_68
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 016eb2c7353655090800000000000000
+      internalID: -8046415949010835952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnetLVL_tileset_69
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f3c2c66402ac6b30800000000000000
+      internalID: 4281975485510108147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnetLVL_tileset_70
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 1
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a96bfab3ec2e3f90800000000000000
+      internalID: -6972085816516712029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

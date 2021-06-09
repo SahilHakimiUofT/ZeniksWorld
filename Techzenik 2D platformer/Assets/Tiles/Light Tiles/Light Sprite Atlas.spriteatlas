@@ -1,0 +1,184 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Light Sprite Atlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: ea75fa18fff8df949a2a2e9c1e9a15f8, type: 3}
+    totalSpriteSurfaceArea: 15914
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 2614599098613689522, guid: ea75fa18fff8df949a2a2e9c1e9a15f8, type: 3}
+  - {fileID: -2435812972577177310, guid: ea75fa18fff8df949a2a2e9c1e9a15f8, type: 3}
+  - {fileID: 1332030731959114825, guid: ea75fa18fff8df949a2a2e9c1e9a15f8, type: 3}
+  - {fileID: 6867476627229048404, guid: ea75fa18fff8df949a2a2e9c1e9a15f8, type: 3}
+  - {fileID: 2197389290155407183, guid: ea75fa18fff8df949a2a2e9c1e9a15f8, type: 3}
+  - {fileID: -3811654316733274016, guid: ea75fa18fff8df949a2a2e9c1e9a15f8, type: 3}
+  - {fileID: 2840636399576287422, guid: ea75fa18fff8df949a2a2e9c1e9a15f8, type: 3}
+  - {fileID: -7867288945234171165, guid: ea75fa18fff8df949a2a2e9c1e9a15f8, type: 3}
+  - {fileID: -2450661333907523486, guid: ea75fa18fff8df949a2a2e9c1e9a15f8, type: 3}
+  - {fileID: -6923139273180545881, guid: ea75fa18fff8df949a2a2e9c1e9a15f8, type: 3}
+  - {fileID: -542533515463544953, guid: ea75fa18fff8df949a2a2e9c1e9a15f8, type: 3}
+  - {fileID: -6481114443552169355, guid: ea75fa18fff8df949a2a2e9c1e9a15f8, type: 3}
+  - {fileID: 4393440790899632433, guid: ea75fa18fff8df949a2a2e9c1e9a15f8, type: 3}
+  - {fileID: -713823472619074000, guid: ea75fa18fff8df949a2a2e9c1e9a15f8, type: 3}
+  - {fileID: -4043139446021949888, guid: ea75fa18fff8df949a2a2e9c1e9a15f8, type: 3}
+  - {fileID: 509210713339548559, guid: ea75fa18fff8df949a2a2e9c1e9a15f8, type: 3}
+  - {fileID: -1014628316956550970, guid: ea75fa18fff8df949a2a2e9c1e9a15f8, type: 3}
+  - {fileID: -3534301646832475108, guid: ea75fa18fff8df949a2a2e9c1e9a15f8, type: 3}
+  - {fileID: 7775430914500606381, guid: ea75fa18fff8df949a2a2e9c1e9a15f8, type: 3}
+  - {fileID: -2329921302960309703, guid: ea75fa18fff8df949a2a2e9c1e9a15f8, type: 3}
+  - {fileID: 4375138542604672313, guid: ea75fa18fff8df949a2a2e9c1e9a15f8, type: 3}
+  - {fileID: 1111243177477053394, guid: ea75fa18fff8df949a2a2e9c1e9a15f8, type: 3}
+  - {fileID: 9090430055475038167, guid: ea75fa18fff8df949a2a2e9c1e9a15f8, type: 3}
+  - {fileID: -7178254897037232788, guid: ea75fa18fff8df949a2a2e9c1e9a15f8, type: 3}
+  - {fileID: 4924135598032374249, guid: ea75fa18fff8df949a2a2e9c1e9a15f8, type: 3}
+  - {fileID: 594738655793840612, guid: ea75fa18fff8df949a2a2e9c1e9a15f8, type: 3}
+  - {fileID: -7531134592132490950, guid: ea75fa18fff8df949a2a2e9c1e9a15f8, type: 3}
+  - {fileID: 7684097377780138444, guid: ea75fa18fff8df949a2a2e9c1e9a15f8, type: 3}
+  - {fileID: 203840142543581027, guid: ea75fa18fff8df949a2a2e9c1e9a15f8, type: 3}
+  - {fileID: 2722896703040820925, guid: ea75fa18fff8df949a2a2e9c1e9a15f8, type: 3}
+  - {fileID: 397643290631993857, guid: ea75fa18fff8df949a2a2e9c1e9a15f8, type: 3}
+  - {fileID: 9071001738400580677, guid: ea75fa18fff8df949a2a2e9c1e9a15f8, type: 3}
+  - {fileID: -1740582466513333996, guid: ea75fa18fff8df949a2a2e9c1e9a15f8, type: 3}
+  - {fileID: 4550414128061360811, guid: ea75fa18fff8df949a2a2e9c1e9a15f8, type: 3}
+  - {fileID: 2508275163809185011, guid: ea75fa18fff8df949a2a2e9c1e9a15f8, type: 3}
+  - {fileID: 5683264491399870306, guid: ea75fa18fff8df949a2a2e9c1e9a15f8, type: 3}
+  - {fileID: -8222755056358227537, guid: ea75fa18fff8df949a2a2e9c1e9a15f8, type: 3}
+  - {fileID: 3621690289198278789, guid: ea75fa18fff8df949a2a2e9c1e9a15f8, type: 3}
+  - {fileID: -5007725208574663447, guid: ea75fa18fff8df949a2a2e9c1e9a15f8, type: 3}
+  - {fileID: -367625955353342087, guid: ea75fa18fff8df949a2a2e9c1e9a15f8, type: 3}
+  - {fileID: -2525165017853717166, guid: ea75fa18fff8df949a2a2e9c1e9a15f8, type: 3}
+  - {fileID: -7707883683140346010, guid: ea75fa18fff8df949a2a2e9c1e9a15f8, type: 3}
+  - {fileID: 7533966605347016162, guid: ea75fa18fff8df949a2a2e9c1e9a15f8, type: 3}
+  - {fileID: 8732946454483251086, guid: ea75fa18fff8df949a2a2e9c1e9a15f8, type: 3}
+  - {fileID: -1006751922457978468, guid: ea75fa18fff8df949a2a2e9c1e9a15f8, type: 3}
+  - {fileID: -7798329508356315425, guid: ea75fa18fff8df949a2a2e9c1e9a15f8, type: 3}
+  - {fileID: 2415834667168674892, guid: ea75fa18fff8df949a2a2e9c1e9a15f8, type: 3}
+  - {fileID: -1121206701926912991, guid: ea75fa18fff8df949a2a2e9c1e9a15f8, type: 3}
+  - {fileID: -5593675433395297065, guid: ea75fa18fff8df949a2a2e9c1e9a15f8, type: 3}
+  - {fileID: -3171650376901848326, guid: ea75fa18fff8df949a2a2e9c1e9a15f8, type: 3}
+  - {fileID: -6464306138311548003, guid: ea75fa18fff8df949a2a2e9c1e9a15f8, type: 3}
+  - {fileID: -6835766994615483084, guid: ea75fa18fff8df949a2a2e9c1e9a15f8, type: 3}
+  - {fileID: -667432524775872015, guid: ea75fa18fff8df949a2a2e9c1e9a15f8, type: 3}
+  - {fileID: 8165778311737552089, guid: ea75fa18fff8df949a2a2e9c1e9a15f8, type: 3}
+  - {fileID: 3046883507587941780, guid: ea75fa18fff8df949a2a2e9c1e9a15f8, type: 3}
+  - {fileID: 5584464747936280959, guid: ea75fa18fff8df949a2a2e9c1e9a15f8, type: 3}
+  - {fileID: 3523894390811737830, guid: ea75fa18fff8df949a2a2e9c1e9a15f8, type: 3}
+  - {fileID: 9171651918950972557, guid: ea75fa18fff8df949a2a2e9c1e9a15f8, type: 3}
+  - {fileID: 2140894040780834589, guid: ea75fa18fff8df949a2a2e9c1e9a15f8, type: 3}
+  - {fileID: 1834698583101438696, guid: ea75fa18fff8df949a2a2e9c1e9a15f8, type: 3}
+  - {fileID: -6386877198154149840, guid: ea75fa18fff8df949a2a2e9c1e9a15f8, type: 3}
+  - {fileID: -5098766398341926102, guid: ea75fa18fff8df949a2a2e9c1e9a15f8, type: 3}
+  - {fileID: 6892836835213651283, guid: ea75fa18fff8df949a2a2e9c1e9a15f8, type: 3}
+  - {fileID: 5647650421460555865, guid: ea75fa18fff8df949a2a2e9c1e9a15f8, type: 3}
+  - {fileID: -7371957382660257012, guid: ea75fa18fff8df949a2a2e9c1e9a15f8, type: 3}
+  - {fileID: -3379956128321526313, guid: ea75fa18fff8df949a2a2e9c1e9a15f8, type: 3}
+  - {fileID: 5673373508272251030, guid: ea75fa18fff8df949a2a2e9c1e9a15f8, type: 3}
+  - {fileID: 6563991245936039623, guid: ea75fa18fff8df949a2a2e9c1e9a15f8, type: 3}
+  - {fileID: 2679750457549437840, guid: ea75fa18fff8df949a2a2e9c1e9a15f8, type: 3}
+  - {fileID: -8447480824530151871, guid: ea75fa18fff8df949a2a2e9c1e9a15f8, type: 3}
+  - {fileID: -2483510979374318350, guid: ea75fa18fff8df949a2a2e9c1e9a15f8, type: 3}
+  - {fileID: -1795158210480270718, guid: ea75fa18fff8df949a2a2e9c1e9a15f8, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - light-lvlselect-tileset_8
+  - light-lvlselect-tileset_68
+  - light-lvlselect-tileset_9
+  - light-lvlselect-tileset_69
+  - light-lvlselect-tileset_6
+  - light-lvlselect-tileset_7
+  - light-lvlselect-tileset_4
+  - light-lvlselect-tileset_5
+  - light-lvlselect-tileset_2
+  - light-lvlselect-tileset_3
+  - light-lvlselect-tileset_0
+  - light-lvlselect-tileset_60
+  - light-lvlselect-tileset_1
+  - light-lvlselect-tileset_61
+  - light-lvlselect-tileset_19
+  - light-lvlselect-tileset_62
+  - light-lvlselect-tileset_18
+  - light-lvlselect-tileset_63
+  - light-lvlselect-tileset_64
+  - light-lvlselect-tileset_48
+  - light-lvlselect-tileset_65
+  - light-lvlselect-tileset_71
+  - light-lvlselect-tileset_49
+  - light-lvlselect-tileset_15
+  - light-lvlselect-tileset_66
+  - light-lvlselect-tileset_70
+  - light-lvlselect-tileset_46
+  - light-lvlselect-tileset_14
+  - light-lvlselect-tileset_67
+  - light-lvlselect-tileset_47
+  - light-lvlselect-tileset_17
+  - light-lvlselect-tileset_44
+  - light-lvlselect-tileset_16
+  - light-lvlselect-tileset_45
+  - light-lvlselect-tileset_11
+  - light-lvlselect-tileset_42
+  - light-lvlselect-tileset_10
+  - light-lvlselect-tileset_43
+  - light-lvlselect-tileset_13
+  - light-lvlselect-tileset_40
+  - light-lvlselect-tileset_12
+  - light-lvlselect-tileset_41
+  - light-lvlselect-tileset_51
+  - light-lvlselect-tileset_50
+  - light-lvlselect-tileset_53
+  - light-lvlselect-tileset_52
+  - light-lvlselect-tileset_24
+  - light-lvlselect-tileset_55
+  - light-lvlselect-tileset_25
+  - light-lvlselect-tileset_54
+  - light-lvlselect-tileset_26
+  - light-lvlselect-tileset_57
+  - light-lvlselect-tileset_27
+  - light-lvlselect-tileset_37
+  - light-lvlselect-tileset_56
+  - light-lvlselect-tileset_20
+  - light-lvlselect-tileset_36
+  - light-lvlselect-tileset_59
+  - light-lvlselect-tileset_21
+  - light-lvlselect-tileset_35
+  - light-lvlselect-tileset_58
+  - light-lvlselect-tileset_22
+  - light-lvlselect-tileset_34
+  - light-lvlselect-tileset_23
+  - light-lvlselect-tileset_33
+  - light-lvlselect-tileset_32
+  - light-lvlselect-tileset_31
+  - light-lvlselect-tileset_30
+  - light-lvlselect-tileset_28
+  - light-lvlselect-tileset_29
+  - light-lvlselect-tileset_39
+  - light-lvlselect-tileset_38
+  m_Tag: Light Sprite Atlas
+  m_IsVariant: 0

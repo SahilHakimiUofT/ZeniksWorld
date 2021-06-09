@@ -1,0 +1,1460 @@
+fileFormatVersion: 2
+guid: e50338532ca1f874fa1af1ace2566715
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7884681068749405131
+    second: lvlselect-tilesets_0
+  - first:
+      213: -5397893714900849461
+    second: lvlselect-tilesets_1
+  - first:
+      213: -2177859682432222353
+    second: lvlselect-tilesets_2
+  - first:
+      213: 4320375603441505971
+    second: lvlselect-tilesets_3
+  - first:
+      213: -8818112062835600415
+    second: lvlselect-tilesets_4
+  - first:
+      213: 2528365918732754289
+    second: lvlselect-tilesets_5
+  - first:
+      213: -449855536057834833
+    second: lvlselect-tilesets_6
+  - first:
+      213: -2249694307664209767
+    second: lvlselect-tilesets_7
+  - first:
+      213: -111798564950864132
+    second: lvlselect-tilesets_8
+  - first:
+      213: 2798720426224636982
+    second: lvlselect-tilesets_9
+  - first:
+      213: -8960960214645456265
+    second: lvlselect-tilesets_10
+  - first:
+      213: -5116967352821032835
+    second: lvlselect-tilesets_11
+  - first:
+      213: 7655634020755186817
+    second: lvlselect-tilesets_12
+  - first:
+      213: 4732726737860565327
+    second: lvlselect-tilesets_13
+  - first:
+      213: -3298961144594150783
+    second: lvlselect-tilesets_14
+  - first:
+      213: -2552200767213240687
+    second: lvlselect-tilesets_15
+  - first:
+      213: 3353161984775686536
+    second: lvlselect-tilesets_16
+  - first:
+      213: -5442310567116399838
+    second: lvlselect-tilesets_17
+  - first:
+      213: -602793686802118071
+    second: lvlselect-tilesets_18
+  - first:
+      213: -2693552564020857117
+    second: lvlselect-tilesets_19
+  - first:
+      213: 2849504906527529363
+    second: lvlselect-tilesets_20
+  - first:
+      213: -8110383478164194750
+    second: lvlselect-tilesets_21
+  - first:
+      213: -4596004415691966570
+    second: lvlselect-tilesets_22
+  - first:
+      213: 7801809820211877450
+    second: lvlselect-tilesets_23
+  - first:
+      213: -1815267619163152889
+    second: lvlselect-tilesets_24
+  - first:
+      213: 1303386899356488732
+    second: lvlselect-tilesets_25
+  - first:
+      213: -650484087186623565
+    second: lvlselect-tilesets_26
+  - first:
+      213: -3649726780902377194
+    second: lvlselect-tilesets_27
+  - first:
+      213: 5676604871081192431
+    second: lvlselect-tilesets_28
+  - first:
+      213: 5368170020835237449
+    second: lvlselect-tilesets_29
+  - first:
+      213: -5822130755829936614
+    second: lvlselect-tilesets_30
+  - first:
+      213: 2313542147266577784
+    second: lvlselect-tilesets_31
+  - first:
+      213: 3303393674515066004
+    second: lvlselect-tilesets_32
+  - first:
+      213: -7927280626726129785
+    second: lvlselect-tilesets_33
+  - first:
+      213: -6421991698025348587
+    second: lvlselect-tilesets_34
+  - first:
+      213: 629742926829498866
+    second: lvlselect-tilesets_35
+  - first:
+      213: -3285846796445566595
+    second: lvlselect-tilesets_36
+  - first:
+      213: -823665800774276086
+    second: lvlselect-tilesets_37
+  - first:
+      213: -904094860416871400
+    second: lvlselect-tilesets_38
+  - first:
+      213: -8509331932831210311
+    second: lvlselect-tilesets_39
+  - first:
+      213: -8263600808929874525
+    second: lvlselect-tilesets_40
+  - first:
+      213: -5835544218010807304
+    second: lvlselect-tilesets_41
+  - first:
+      213: -5144630808898942381
+    second: lvlselect-tilesets_42
+  - first:
+      213: -7241003666342288034
+    second: lvlselect-tilesets_43
+  - first:
+      213: 3087923965843721111
+    second: lvlselect-tilesets_44
+  - first:
+      213: -4685179679048972620
+    second: lvlselect-tilesets_45
+  - first:
+      213: 3591994935700890383
+    second: lvlselect-tilesets_46
+  - first:
+      213: -8182694824969801414
+    second: lvlselect-tilesets_47
+  - first:
+      213: 6389523943753240115
+    second: lvlselect-tilesets_48
+  - first:
+      213: -1208350169469621940
+    second: lvlselect-tilesets_49
+  - first:
+      213: -1783421391091363508
+    second: lvlselect-tilesets_50
+  - first:
+      213: 7297448628063151507
+    second: lvlselect-tilesets_51
+  - first:
+      213: -5484624864584203007
+    second: lvlselect-tilesets_52
+  - first:
+      213: 5819679992097113676
+    second: lvlselect-tilesets_53
+  - first:
+      213: 3407997388298109147
+    second: lvlselect-tilesets_54
+  - first:
+      213: -1672863914567347118
+    second: lvlselect-tilesets_55
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: lvlselect-tilesets_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 137
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 534c1f1c75cf39290800000000000000
+      internalID: -7884681068749405131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvlselect-tilesets_1
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 137
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcc650cf344d615b0800000000000000
+      internalID: -5397893714900849461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvlselect-tilesets_2
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 137
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6b7bf95820b6c1e0800000000000000
+      internalID: -2177859682432222353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvlselect-tilesets_3
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 137
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b6156398be05fb30800000000000000
+      internalID: 4320375603441505971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvlselect-tilesets_4
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 137
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e3d8199cc5cf9580800000000000000
+      internalID: -8818112062835600415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvlselect-tilesets_5
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 137
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17d1540486f861320800000000000000
+      internalID: 2528365918732754289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvlselect-tilesets_6
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 137
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa2a70df5cac1c9f0800000000000000
+      internalID: -449855536057834833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvlselect-tilesets_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 119
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 998d47252fa77c0e0800000000000000
+      internalID: -2249694307664209767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvlselect-tilesets_8
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 119
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfe84b92ccfc27ef0800000000000000
+      internalID: -111798564950864132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvlselect-tilesets_9
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 119
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 634dfbe366d07d620800000000000000
+      internalID: 2798720426224636982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvlselect-tilesets_10
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 119
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77246a7792644a380800000000000000
+      internalID: -8960960214645456265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvlselect-tilesets_11
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 119
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d78d4dfad41ecf8b0800000000000000
+      internalID: -5116967352821032835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvlselect-tilesets_12
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 119
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1842281a4964e3a60800000000000000
+      internalID: 7655634020755186817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvlselect-tilesets_13
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 119
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f491c2d94e50ea140800000000000000
+      internalID: 4732726737860565327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvlselect-tilesets_14
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 119
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18a46a0515cb732d0800000000000000
+      internalID: -3298961144594150783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvlselect-tilesets_15
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 119
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19e76c2ace2c49cd0800000000000000
+      internalID: -2552200767213240687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvlselect-tilesets_16
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 119
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88906e03f03d88e20800000000000000
+      internalID: 3353161984775686536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvlselect-tilesets_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 101
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22b1ca1bf570974b0800000000000000
+      internalID: -5442310567116399838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvlselect-tilesets_18
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 101
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94acf49e55272a7f0800000000000000
+      internalID: -602793686802118071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvlselect-tilesets_19
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 101
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e6b1bdc6349e9ad0800000000000000
+      internalID: -2693552564020857117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvlselect-tilesets_20
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 101
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3995e4b7d997b8720800000000000000
+      internalID: 2849504906527529363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvlselect-tilesets_21
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 101
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24a73df7231227f80800000000000000
+      internalID: -8110383478164194750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvlselect-tilesets_22
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 101
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 697bd88a556b730c0800000000000000
+      internalID: -4596004415691966570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvlselect-tilesets_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 70
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4612ea12b8954c60800000000000000
+      internalID: 7801809820211877450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvlselect-tilesets_24
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 70
+        width: 5
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70ed283d7bfdec6e0800000000000000
+      internalID: -1815267619163152889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvlselect-tilesets_25
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 70
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c149a05ba7f861210800000000000000
+      internalID: 1303386899356488732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvlselect-tilesets_26
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 70
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b3723b4b2409f6f0800000000000000
+      internalID: -650484087186623565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvlselect-tilesets_27
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 70
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 619751174d0995dc0800000000000000
+      internalID: -3649726780902377194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvlselect-tilesets_28
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 70
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: febeb07ed0a57ce40800000000000000
+      internalID: 5676604871081192431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvlselect-tilesets_29
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 48
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94e19c131329f7a40800000000000000
+      internalID: 5368170020835237449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvlselect-tilesets_30
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 36
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1e41eeace2a33fa0800000000000000
+      internalID: -5822130755829936614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvlselect-tilesets_31
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 36
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87508b4435a5b1020800000000000000
+      internalID: 2313542147266577784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvlselect-tilesets_32
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 36
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49c2eba7b0308dd20800000000000000
+      internalID: 3303393674515066004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvlselect-tilesets_33
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 36
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78f27214544acf190800000000000000
+      internalID: -7927280626726129785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvlselect-tilesets_34
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 30
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51201b8639080e6a0800000000000000
+      internalID: -6421991698025348587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvlselect-tilesets_35
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 34
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f1bc7dfadb4db800800000000000000
+      internalID: 629742926829498866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvlselect-tilesets_36
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 30
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d79b18f6fb35662d0800000000000000
+      internalID: -3285846796445566595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvlselect-tilesets_37
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 30
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0c26337150c194f0800000000000000
+      internalID: -823665800774276086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvlselect-tilesets_38
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 30
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8149899b3820473f0800000000000000
+      internalID: -904094860416871400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvlselect-tilesets_39
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 34
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b425b301b7c8e980800000000000000
+      internalID: -8509331932831210311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvlselect-tilesets_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3adaa12c8dac15d80800000000000000
+      internalID: -8263600808929874525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvlselect-tilesets_41
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f39166a37bf30fa0800000000000000
+      internalID: -5835544218010807304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvlselect-tilesets_42
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 16
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35a4c0769899a98b0800000000000000
+      internalID: -5144630808898942381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvlselect-tilesets_43
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 16
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e55ed5aa789c28b90800000000000000
+      internalID: -7241003666342288034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvlselect-tilesets_44
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 12
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79bc7858c728ada20800000000000000
+      internalID: 3087923965843721111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvlselect-tilesets_45
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 18
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b64861b7e5eafeb0800000000000000
+      internalID: -4685179679048972620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvlselect-tilesets_46
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 18
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f032471ec5459d130800000000000000
+      internalID: 3591994935700890383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvlselect-tilesets_47
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 18
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a317f34196a317e80800000000000000
+      internalID: -8182694824969801414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvlselect-tilesets_48
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 18
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33ec3477c262ca850800000000000000
+      internalID: 6389523943753240115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvlselect-tilesets_49
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c49ea784ce31b3fe0800000000000000
+      internalID: -1208350169469621940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvlselect-tilesets_50
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 2
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c419a2b91b30047e0800000000000000
+      internalID: -1783421391091363508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvlselect-tilesets_51
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 0
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 395ad5a1ddeb54560800000000000000
+      internalID: 7297448628063151507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvlselect-tilesets_52
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1050f249eb2b2e3b0800000000000000
+      internalID: -5484624864584203007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvlselect-tilesets_53
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c46856b6e18a3c050800000000000000
+      internalID: 5819679992097113676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvlselect-tilesets_54
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd0c7fc7193ab4f20800000000000000
+      internalID: 3407997388298109147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvlselect-tilesets_55
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 1
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 254d4a6022bc8c8e0800000000000000
+      internalID: -1672863914567347118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

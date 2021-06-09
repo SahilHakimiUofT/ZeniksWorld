@@ -1,0 +1,1955 @@
+fileFormatVersion: 2
+guid: ea75fa18fff8df949a2a2e9c1e9a15f8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -542533515463544953
+    second: light-lvlselect-tileset_0
+  - first:
+      213: 4393440790899632433
+    second: light-lvlselect-tileset_1
+  - first:
+      213: -2450661333907523486
+    second: light-lvlselect-tileset_2
+  - first:
+      213: -6923139273180545881
+    second: light-lvlselect-tileset_3
+  - first:
+      213: 2840636399576287422
+    second: light-lvlselect-tileset_4
+  - first:
+      213: -7867288945234171165
+    second: light-lvlselect-tileset_5
+  - first:
+      213: 2197389290155407183
+    second: light-lvlselect-tileset_6
+  - first:
+      213: -3811654316733274016
+    second: light-lvlselect-tileset_7
+  - first:
+      213: 2614599098613689522
+    second: light-lvlselect-tileset_8
+  - first:
+      213: 1332030731959114825
+    second: light-lvlselect-tileset_9
+  - first:
+      213: -8222755056358227537
+    second: light-lvlselect-tileset_10
+  - first:
+      213: 2508275163809185011
+    second: light-lvlselect-tileset_11
+  - first:
+      213: -2525165017853717166
+    second: light-lvlselect-tileset_12
+  - first:
+      213: -5007725208574663447
+    second: light-lvlselect-tileset_13
+  - first:
+      213: 7684097377780138444
+    second: light-lvlselect-tileset_14
+  - first:
+      213: -7178254897037232788
+    second: light-lvlselect-tileset_15
+  - first:
+      213: -1740582466513333996
+    second: light-lvlselect-tileset_16
+  - first:
+      213: 397643290631993857
+    second: light-lvlselect-tileset_17
+  - first:
+      213: -1014628316956550970
+    second: light-lvlselect-tileset_18
+  - first:
+      213: -4043139446021949888
+    second: light-lvlselect-tileset_19
+  - first:
+      213: 5584464747936280959
+    second: light-lvlselect-tileset_20
+  - first:
+      213: 2140894040780834589
+    second: light-lvlselect-tileset_21
+  - first:
+      213: -5098766398341926102
+    second: light-lvlselect-tileset_22
+  - first:
+      213: 5647650421460555865
+    second: light-lvlselect-tileset_23
+  - first:
+      213: 2415834667168674892
+    second: light-lvlselect-tileset_24
+  - first:
+      213: -5593675433395297065
+    second: light-lvlselect-tileset_25
+  - first:
+      213: -6464306138311548003
+    second: light-lvlselect-tileset_26
+  - first:
+      213: -667432524775872015
+    second: light-lvlselect-tileset_27
+  - first:
+      213: 2679750457549437840
+    second: light-lvlselect-tileset_28
+  - first:
+      213: -8447480824530151871
+    second: light-lvlselect-tileset_29
+  - first:
+      213: 6563991245936039623
+    second: light-lvlselect-tileset_30
+  - first:
+      213: 5673373508272251030
+    second: light-lvlselect-tileset_31
+  - first:
+      213: -3379956128321526313
+    second: light-lvlselect-tileset_32
+  - first:
+      213: -7371957382660257012
+    second: light-lvlselect-tileset_33
+  - first:
+      213: 6892836835213651283
+    second: light-lvlselect-tileset_34
+  - first:
+      213: 1834698583101438696
+    second: light-lvlselect-tileset_35
+  - first:
+      213: 3523894390811737830
+    second: light-lvlselect-tileset_36
+  - first:
+      213: 8165778311737552089
+    second: light-lvlselect-tileset_37
+  - first:
+      213: -1795158210480270718
+    second: light-lvlselect-tileset_38
+  - first:
+      213: -2483510979374318350
+    second: light-lvlselect-tileset_39
+  - first:
+      213: -367625955353342087
+    second: light-lvlselect-tileset_40
+  - first:
+      213: -7707883683140346010
+    second: light-lvlselect-tileset_41
+  - first:
+      213: 5683264491399870306
+    second: light-lvlselect-tileset_42
+  - first:
+      213: 3621690289198278789
+    second: light-lvlselect-tileset_43
+  - first:
+      213: 9071001738400580677
+    second: light-lvlselect-tileset_44
+  - first:
+      213: 4550414128061360811
+    second: light-lvlselect-tileset_45
+  - first:
+      213: -7531134592132490950
+    second: light-lvlselect-tileset_46
+  - first:
+      213: 2722896703040820925
+    second: light-lvlselect-tileset_47
+  - first:
+      213: -2329921302960309703
+    second: light-lvlselect-tileset_48
+  - first:
+      213: 9090430055475038167
+    second: light-lvlselect-tileset_49
+  - first:
+      213: 8732946454483251086
+    second: light-lvlselect-tileset_50
+  - first:
+      213: 7533966605347016162
+    second: light-lvlselect-tileset_51
+  - first:
+      213: -7798329508356315425
+    second: light-lvlselect-tileset_52
+  - first:
+      213: -1006751922457978468
+    second: light-lvlselect-tileset_53
+  - first:
+      213: -3171650376901848326
+    second: light-lvlselect-tileset_54
+  - first:
+      213: -1121206701926912991
+    second: light-lvlselect-tileset_55
+  - first:
+      213: 3046883507587941780
+    second: light-lvlselect-tileset_56
+  - first:
+      213: -6835766994615483084
+    second: light-lvlselect-tileset_57
+  - first:
+      213: -6386877198154149840
+    second: light-lvlselect-tileset_58
+  - first:
+      213: 9171651918950972557
+    second: light-lvlselect-tileset_59
+  - first:
+      213: -6481114443552169355
+    second: light-lvlselect-tileset_60
+  - first:
+      213: -713823472619074000
+    second: light-lvlselect-tileset_61
+  - first:
+      213: 509210713339548559
+    second: light-lvlselect-tileset_62
+  - first:
+      213: -3534301646832475108
+    second: light-lvlselect-tileset_63
+  - first:
+      213: 7775430914500606381
+    second: light-lvlselect-tileset_64
+  - first:
+      213: 4375138542604672313
+    second: light-lvlselect-tileset_65
+  - first:
+      213: 4924135598032374249
+    second: light-lvlselect-tileset_66
+  - first:
+      213: 203840142543581027
+    second: light-lvlselect-tileset_67
+  - first:
+      213: -2435812972577177310
+    second: light-lvlselect-tileset_68
+  - first:
+      213: 6867476627229048404
+    second: light-lvlselect-tileset_69
+  - first:
+      213: 594738655793840612
+    second: light-lvlselect-tileset_70
+  - first:
+      213: 1111243177477053394
+    second: light-lvlselect-tileset_71
+  - first:
+      213: -3121350579542244912
+    second: light-lvlselect-tileset_72
+  - first:
+      213: -4144864386486001474
+    second: light-lvlselect-tileset_73
+  - first:
+      213: -5097736365214722153
+    second: light-lvlselect-tileset_74
+  - first:
+      213: 3971029695708298703
+    second: light-lvlselect-tileset_75
+  - first:
+      213: -1470565634494213652
+    second: light-lvlselect-tileset_76
+  - first:
+      213: 9025757303424031935
+    second: light-lvlselect-tileset_77
+  - first:
+      213: 4890695409424106110
+    second: light-lvlselect-tileset_78
+  - first:
+      213: 5237724933183004680
+    second: light-lvlselect-tileset_79
+  - first:
+      213: -5358156779108504305
+    second: light-lvlselect-tileset_80
+  - first:
+      213: 5271853399921860170
+    second: light-lvlselect-tileset_81
+  - first:
+      213: 870148978210317536
+    second: light-lvlselect-tileset_82
+  - first:
+      213: -5188382916941704969
+    second: light-lvlselect-tileset_83
+  - first:
+      213: -8563171594932721038
+    second: light-lvlselect-tileset_84
+  - first:
+      213: -4379927092533760573
+    second: light-lvlselect-tileset_85
+  - first:
+      213: 1600990639979989624
+    second: light-lvlselect-tileset_86
+  - first:
+      213: -5112179624582638723
+    second: light-lvlselect-tileset_87
+  - first:
+      213: 6149772314120708619
+    second: light-lvlselect-tileset_88
+  - first:
+      213: -3474628414950647720
+    second: light-lvlselect-tileset_89
+  - first:
+      213: 7187023259796305156
+    second: light-lvlselect-tileset_90
+  - first:
+      213: -3605305326026269925
+    second: light-lvlselect-tileset_91
+  - first:
+      213: -1548955157956149575
+    second: light-lvlselect-tileset_92
+  - first:
+      213: -4119517867263257837
+    second: light-lvlselect-tileset_93
+  - first:
+      213: -261504625367234262
+    second: light-lvlselect-tileset_94
+  - first:
+      213: -5295731109190706444
+    second: light-lvlselect-tileset_95
+  - first:
+      213: 7098608516904392888
+    second: light-lvlselect-tileset_96
+  - first:
+      213: 7526312754339133176
+    second: light-lvlselect-tileset_97
+  - first:
+      213: -7418129932850776223
+    second: light-lvlselect-tileset_98
+  - first:
+      213: 744846302205748835
+    second: light-lvlselect-tileset_99
+  - first:
+      213: -935358499253553282
+    second: light-lvlselect-tileset_100
+  - first:
+      213: -5186644724657252947
+    second: light-lvlselect-tileset_101
+  - first:
+      213: 8290298636112411172
+    second: light-lvlselect-tileset_102
+  - first:
+      213: -299906068126848938
+    second: light-lvlselect-tileset_103
+  - first:
+      213: -5214641160197803941
+    second: light-lvlselect-tileset_104
+  - first:
+      213: -6570538603833852479
+    second: light-lvlselect-tileset_105
+  - first:
+      213: -2696388490659844706
+    second: light-lvlselect-tileset_106
+  - first:
+      213: -1417444659387349791
+    second: light-lvlselect-tileset_107
+  - first:
+      213: 26198045646852511
+    second: light-lvlselect-tileset_108
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: light-lvlselect-tileset_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 171
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78f2d0464a88878f0800000000000000
+      internalID: -542533515463544953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-lvlselect-tileset_1
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 171
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 139a8433f13a8fc30800000000000000
+      internalID: 4393440790899632433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-lvlselect-tileset_2
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 171
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26838af30808dfdd0800000000000000
+      internalID: -2450661333907523486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-lvlselect-tileset_3
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 171
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ac748be2811cef90800000000000000
+      internalID: -6923139273180545881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-lvlselect-tileset_4
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 171
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb80acc41c7fb6720800000000000000
+      internalID: 2840636399576287422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-lvlselect-tileset_5
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 171
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eaa5f11366c1d290800000000000000
+      internalID: -7867288945234171165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-lvlselect-tileset_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 153
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f47f5f8cae1be7e10800000000000000
+      internalID: 2197389290155407183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-lvlselect-tileset_7
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 153
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 068678c08984a1bc0800000000000000
+      internalID: -3811654316733274016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-lvlselect-tileset_8
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 153
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bcece6070ce84420800000000000000
+      internalID: 2614599098613689522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-lvlselect-tileset_9
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 153
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94c9350b4e25c7210800000000000000
+      internalID: 1332030731959114825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-lvlselect-tileset_10
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 153
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa188be97d7e2ed80800000000000000
+      internalID: -8222755056358227537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-lvlselect-tileset_11
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 153
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fcf7c9d8fe2fc220800000000000000
+      internalID: 2508275163809185011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-lvlselect-tileset_12
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 153
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 255169f8bcfc4fcd0800000000000000
+      internalID: -2525165017853717166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-lvlselect-tileset_13
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 153
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e46322747cf08ab0800000000000000
+      internalID: -5007725208574663447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-lvlselect-tileset_14
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 153
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc1881e5ad563aa60800000000000000
+      internalID: 7684097377780138444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-lvlselect-tileset_15
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 153
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6533e20437b16c90800000000000000
+      internalID: -7178254897037232788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-lvlselect-tileset_16
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 153
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 411133df77538d7e0800000000000000
+      internalID: -1740582466513333996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-lvlselect-tileset_17
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 153
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10aff6d4776b48500800000000000000
+      internalID: 397643290631993857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-lvlselect-tileset_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 135
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c890c4ebe05be1f0800000000000000
+      internalID: -1014628316956550970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-lvlselect-tileset_19
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 135
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 046fd766812e3e7c0800000000000000
+      internalID: -4043139446021949888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-lvlselect-tileset_20
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 135
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f71fe69b911008d40800000000000000
+      internalID: 5584464747936280959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-lvlselect-tileset_21
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 135
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d170e7289cbf5bd10800000000000000
+      internalID: 2140894040780834589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-lvlselect-tileset_22
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 135
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a23b122a9fa8d39b0800000000000000
+      internalID: -5098766398341926102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-lvlselect-tileset_23
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 135
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 958ddb2c22c706e40800000000000000
+      internalID: 5647650421460555865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-lvlselect-tileset_24
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 135
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c44b9a484d4c68120800000000000000
+      internalID: 2415834667168674892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-lvlselect-tileset_25
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 135
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d4e4a374d54f52b0800000000000000
+      internalID: -5593675433395297065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-lvlselect-tileset_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 117
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d93209a01db2a46a0800000000000000
+      internalID: -6464306138311548003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-lvlselect-tileset_27
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 117
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f92139a7adccb6f0800000000000000
+      internalID: -667432524775872015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-lvlselect-tileset_28
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 117
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09bbcecd7d2603520800000000000000
+      internalID: 2679750457549437840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-lvlselect-tileset_29
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 117
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 146d4fe52f484ca80800000000000000
+      internalID: -8447480824530151871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-lvlselect-tileset_30
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 117
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c69acab24bf71b50800000000000000
+      internalID: 6563991245936039623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-lvlselect-tileset_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 690edae952fdbbe40800000000000000
+      internalID: 5673373508272251030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-lvlselect-tileset_32
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d5adfe1fcbf711d0800000000000000
+      internalID: -3379956128321526313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-lvlselect-tileset_33
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0b873b91db81b990800000000000000
+      internalID: -7371957382660257012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-lvlselect-tileset_34
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35d23a1f49648af50800000000000000
+      internalID: 6892836835213651283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-lvlselect-tileset_35
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ea7ca304a8267910800000000000000
+      internalID: 1834698583101438696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-lvlselect-tileset_36
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ee335e274367e030800000000000000
+      internalID: 3523894390811737830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-lvlselect-tileset_37
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 70
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dca4b14c1ca25170800000000000000
+      internalID: 8165778311737552089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-lvlselect-tileset_38
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 70
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28292b46e115617e0800000000000000
+      internalID: -1795158210480270718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-lvlselect-tileset_39
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 70
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fc7c962cebc88dd0800000000000000
+      internalID: -2483510979374318350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-lvlselect-tileset_40
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 70
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97f43f0342ee5eaf0800000000000000
+      internalID: -367625955353342087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-lvlselect-tileset_41
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 70
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66fd368d0a8180590800000000000000
+      internalID: -7707883683140346010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-lvlselect-tileset_42
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 70
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 267fa7691f20fde40800000000000000
+      internalID: 5683264491399870306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-lvlselect-tileset_43
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 70
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58825262124d24230800000000000000
+      internalID: 3621690289198278789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-lvlselect-tileset_44
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 70
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5444156550ca2ed70800000000000000
+      internalID: 9071001738400580677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-lvlselect-tileset_45
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 48
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baa24045a81562f30800000000000000
+      internalID: 4550414128061360811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-lvlselect-tileset_46
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 36
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3959487df80c7790800000000000000
+      internalID: -7531134592132490950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-lvlselect-tileset_47
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 36
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db694d8ff1ca9c520800000000000000
+      internalID: 2722896703040820925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-lvlselect-tileset_48
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 36
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93a7f6e5be47aafd0800000000000000
+      internalID: -2329921302960309703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-lvlselect-tileset_49
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 36
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d7cf18e8f1b72e70800000000000000
+      internalID: 9090430055475038167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-lvlselect-tileset_50
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 30
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8f2bfdf788a13970800000000000000
+      internalID: 8732946454483251086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-lvlselect-tileset_51
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 34
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ed4d5df5b60e8860800000000000000
+      internalID: 7533966605347016162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-lvlselect-tileset_52
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 30
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd6a9f421a4c6c390800000000000000
+      internalID: -7798329508356315425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-lvlselect-tileset_53
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 30
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9953f4e57c4702f0800000000000000
+      internalID: -1006751922457978468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-lvlselect-tileset_54
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 30
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af2180d49c80cf3d0800000000000000
+      internalID: -3171650376901848326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-lvlselect-tileset_55
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 34
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12cebdbe17ca070f0800000000000000
+      internalID: -1121206701926912991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-lvlselect-tileset_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49586c53864b84a20800000000000000
+      internalID: 3046883507587941780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-lvlselect-tileset_57
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 435ca96c22a7221a0800000000000000
+      internalID: -6835766994615483084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-lvlselect-tileset_58
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 16
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 030daf307014d57a0800000000000000
+      internalID: -6386877198154149840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-lvlselect-tileset_59
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 16
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8c3a98a3d0484f70800000000000000
+      internalID: 9171651918950972557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-lvlselect-tileset_60
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 12
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5726b6380c47e06a0800000000000000
+      internalID: -6481114443552169355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-lvlselect-tileset_61
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 18
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03e443a655df716f0800000000000000
+      internalID: -713823472619074000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-lvlselect-tileset_62
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 18
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f835d642274111700800000000000000
+      internalID: 509210713339548559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-lvlselect-tileset_63
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 18
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c14e873b063a3fec0800000000000000
+      internalID: -3534301646832475108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-lvlselect-tileset_64
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 18
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da936628831e7eb60800000000000000
+      internalID: 7775430914500606381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-lvlselect-tileset_65
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93d5213f25d97bc30800000000000000
+      internalID: 4375138542604672313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-lvlselect-tileset_66
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 2
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e9439abc3b065440800000000000000
+      internalID: 4924135598032374249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-lvlselect-tileset_67
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 0
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36f6647978f24d200800000000000000
+      internalID: 203840142543581027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-lvlselect-tileset_68
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 221cf36c101423ed0800000000000000
+      internalID: -2435812972577177310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-lvlselect-tileset_69
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45ef8456b9d2e4f50800000000000000
+      internalID: 6867476627229048404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-lvlselect-tileset_70
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e109c808afe04800800000000000000
+      internalID: 594738655793840612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light-lvlselect-tileset_71
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 1
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2db989448cdeb6f00800000000000000
+      internalID: 1111243177477053394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

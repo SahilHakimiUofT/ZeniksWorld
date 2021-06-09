@@ -1,0 +1,3164 @@
+fileFormatVersion: 2
+guid: 0f50325c356ed0143b0845f9af889fe4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7553853779105880946
+    second: IoT-Tileset_0
+  - first:
+      213: -7386257663680526797
+    second: IoT-Tileset_1
+  - first:
+      213: -4496624092673625021
+    second: IoT-Tileset_2
+  - first:
+      213: 5868926209534960662
+    second: IoT-Tileset_3
+  - first:
+      213: -6326482889534585177
+    second: IoT-Tileset_4
+  - first:
+      213: 4281856918753736397
+    second: IoT-Tileset_5
+  - first:
+      213: 2180051989233988948
+    second: IoT-Tileset_6
+  - first:
+      213: -3090059656660582166
+    second: IoT-Tileset_7
+  - first:
+      213: 3516667475588664854
+    second: IoT-Tileset_8
+  - first:
+      213: -2145082715844117705
+    second: IoT-Tileset_9
+  - first:
+      213: 8642628508840310251
+    second: IoT-Tileset_10
+  - first:
+      213: 5524636932183823905
+    second: IoT-Tileset_11
+  - first:
+      213: 6128796850120020197
+    second: IoT-Tileset_12
+  - first:
+      213: -2233263147130962746
+    second: IoT-Tileset_13
+  - first:
+      213: 179245053222123216
+    second: IoT-Tileset_14
+  - first:
+      213: 2219168876571330455
+    second: IoT-Tileset_15
+  - first:
+      213: -4834759991564969456
+    second: IoT-Tileset_16
+  - first:
+      213: 1015995613501632521
+    second: IoT-Tileset_17
+  - first:
+      213: 769548213146720518
+    second: IoT-Tileset_18
+  - first:
+      213: -6311786259411113771
+    second: IoT-Tileset_19
+  - first:
+      213: -5955167149445345929
+    second: IoT-Tileset_20
+  - first:
+      213: -1420314882136738564
+    second: IoT-Tileset_21
+  - first:
+      213: -118615750217159458
+    second: IoT-Tileset_22
+  - first:
+      213: 1585685312927029140
+    second: IoT-Tileset_23
+  - first:
+      213: -6167832122758472343
+    second: IoT-Tileset_24
+  - first:
+      213: -4862380268487901882
+    second: IoT-Tileset_25
+  - first:
+      213: -3323465873719625517
+    second: IoT-Tileset_26
+  - first:
+      213: -765942766522919695
+    second: IoT-Tileset_27
+  - first:
+      213: -2790716222447096937
+    second: IoT-Tileset_28
+  - first:
+      213: 5402675273335880937
+    second: IoT-Tileset_29
+  - first:
+      213: 1405944997737732508
+    second: IoT-Tileset_30
+  - first:
+      213: -3615070434038795541
+    second: IoT-Tileset_31
+  - first:
+      213: 1094560951893158506
+    second: IoT-Tileset_32
+  - first:
+      213: 8195736371520856555
+    second: IoT-Tileset_33
+  - first:
+      213: 1129066844176358781
+    second: IoT-Tileset_34
+  - first:
+      213: 543040840099909710
+    second: IoT-Tileset_35
+  - first:
+      213: -43343460216954522
+    second: IoT-Tileset_36
+  - first:
+      213: -26318278652359674
+    second: IoT-Tileset_37
+  - first:
+      213: -3951836339179655471
+    second: IoT-Tileset_38
+  - first:
+      213: 131748564675205060
+    second: IoT-Tileset_39
+  - first:
+      213: 8946435957810774860
+    second: IoT-Tileset_40
+  - first:
+      213: 1471644816136227767
+    second: IoT-Tileset_41
+  - first:
+      213: 4919028282929924214
+    second: IoT-Tileset_42
+  - first:
+      213: 2598757472409001440
+    second: IoT-Tileset_43
+  - first:
+      213: -7914913593610466674
+    second: IoT-Tileset_44
+  - first:
+      213: 115569369670817389
+    second: IoT-Tileset_45
+  - first:
+      213: 7744676169919347935
+    second: IoT-Tileset_46
+  - first:
+      213: 6336127391224970144
+    second: IoT-Tileset_47
+  - first:
+      213: 7760735221801546498
+    second: IoT-Tileset_48
+  - first:
+      213: -8702500302642221934
+    second: IoT-Tileset_49
+  - first:
+      213: 7423900312159774208
+    second: IoT-Tileset_50
+  - first:
+      213: -2874438448709242243
+    second: IoT-Tileset_51
+  - first:
+      213: -3862444094145069123
+    second: IoT-Tileset_52
+  - first:
+      213: -6249150239206458629
+    second: IoT-Tileset_53
+  - first:
+      213: -3779033441244004323
+    second: IoT-Tileset_54
+  - first:
+      213: -6061185167618865702
+    second: IoT-Tileset_55
+  - first:
+      213: 8685115209695771049
+    second: IoT-Tileset_56
+  - first:
+      213: 5165744556324215301
+    second: IoT-Tileset_57
+  - first:
+      213: -5576853947047325390
+    second: IoT-Tileset_58
+  - first:
+      213: -5247862231021891296
+    second: IoT-Tileset_59
+  - first:
+      213: 878844677619718921
+    second: IoT-Tileset_60
+  - first:
+      213: 2609875437098462663
+    second: IoT-Tileset_61
+  - first:
+      213: -383336291341968417
+    second: IoT-Tileset_62
+  - first:
+      213: 3288434150215372566
+    second: IoT-Tileset_63
+  - first:
+      213: -2332542671412629863
+    second: IoT-Tileset_64
+  - first:
+      213: -1229320292817815464
+    second: IoT-Tileset_65
+  - first:
+      213: 9059757584197204030
+    second: IoT-Tileset_66
+  - first:
+      213: -8017980544879532189
+    second: IoT-Tileset_67
+  - first:
+      213: -6269004713366815571
+    second: IoT-Tileset_68
+  - first:
+      213: -5403345463257264809
+    second: IoT-Tileset_69
+  - first:
+      213: 800776501964127842
+    second: IoT-Tileset_70
+  - first:
+      213: 2069006033049730237
+    second: IoT-Tileset_71
+  - first:
+      213: -7052945712891951231
+    second: IoT-Tileset_72
+  - first:
+      213: -923180985258365354
+    second: IoT-Tileset_73
+  - first:
+      213: 742703119064838339
+    second: IoT-Tileset_74
+  - first:
+      213: -5298318060323467955
+    second: IoT-Tileset_75
+  - first:
+      213: -921304943406246421
+    second: IoT-Tileset_76
+  - first:
+      213: 7068886289470234469
+    second: IoT-Tileset_77
+  - first:
+      213: 263648593441406089
+    second: IoT-Tileset_78
+  - first:
+      213: 9073737053547670365
+    second: IoT-Tileset_79
+  - first:
+      213: -146370849994151186
+    second: IoT-Tileset_80
+  - first:
+      213: 6473516180284288525
+    second: IoT-Tileset_81
+  - first:
+      213: -599045140196732820
+    second: IoT-Tileset_82
+  - first:
+      213: -2490661329552929355
+    second: IoT-Tileset_83
+  - first:
+      213: 2253935825051416223
+    second: IoT-Tileset_84
+  - first:
+      213: 1257214956375433945
+    second: IoT-Tileset_85
+  - first:
+      213: -6149038302135726761
+    second: IoT-Tileset_86
+  - first:
+      213: 1346498069522985321
+    second: IoT-Tileset_87
+  - first:
+      213: 2340788595921297557
+    second: IoT-Tileset_88
+  - first:
+      213: 9103515768252043339
+    second: IoT-Tileset_89
+  - first:
+      213: -4703278580980371299
+    second: IoT-Tileset_90
+  - first:
+      213: -4069035078758452327
+    second: IoT-Tileset_91
+  - first:
+      213: 4491017111361434229
+    second: IoT-Tileset_92
+  - first:
+      213: 302379428400329483
+    second: IoT-Tileset_93
+  - first:
+      213: -9180872267273136511
+    second: IoT-Tileset_94
+  - first:
+      213: -6772323540594785178
+    second: IoT-Tileset_95
+  - first:
+      213: 2991796488677140870
+    second: IoT-Tileset_96
+  - first:
+      213: 2891878276967986084
+    second: IoT-Tileset_97
+  - first:
+      213: -981233874883161038
+    second: IoT-Tileset_98
+  - first:
+      213: -982592090985421381
+    second: IoT-Tileset_99
+  - first:
+      213: 5065841251115782273
+    second: IoT-Tileset_100
+  - first:
+      213: 335979718054332660
+    second: IoT-Tileset_101
+  - first:
+      213: -6035109590741422349
+    second: IoT-Tileset_102
+  - first:
+      213: 3745136430326291011
+    second: IoT-Tileset_103
+  - first:
+      213: 589544985674892515
+    second: IoT-Tileset_104
+  - first:
+      213: 5533845960508689465
+    second: IoT-Tileset_105
+  - first:
+      213: -7923801935457377890
+    second: IoT-Tileset_106
+  - first:
+      213: -7445261004422585687
+    second: IoT-Tileset_107
+  - first:
+      213: -5562214461539235985
+    second: IoT-Tileset_108
+  - first:
+      213: -3561575732918827421
+    second: IoT-Tileset_109
+  - first:
+      213: 5506324248122781791
+    second: IoT-Tileset_110
+  - first:
+      213: -2213143233289279001
+    second: IoT-Tileset_111
+  - first:
+      213: 49082951904162484
+    second: IoT-Tileset_112
+  - first:
+      213: -869230168475632185
+    second: IoT-Tileset_113
+  - first:
+      213: 410057414559574306
+    second: IoT-Tileset_114
+  - first:
+      213: 6704082516006639653
+    second: IoT-Tileset_115
+  - first:
+      213: 4928170424248442212
+    second: IoT-Tileset_116
+  - first:
+      213: -2557812363715244853
+    second: IoT-Tileset_117
+  - first:
+      213: 5013099220078445457
+    second: IoT-Tileset_118
+  - first:
+      213: -830484379007100683
+    second: IoT-Tileset_119
+  - first:
+      213: -1249035186165047510
+    second: IoT-Tileset_120
+  - first:
+      213: 5372084542099462035
+    second: IoT-Tileset_121
+  - first:
+      213: -8829034808320890172
+    second: IoT-Tileset_122
+  - first:
+      213: -5844351650189270098
+    second: IoT-Tileset_123
+  - first:
+      213: 578329000735419823
+    second: IoT-Tileset_124
+  - first:
+      213: -2421210229419966274
+    second: IoT-Tileset_125
+  - first:
+      213: -8247427081123003587
+    second: IoT-Tileset_126
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: IoT-Tileset_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 324
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e84e62b82025b2790800000000000000
+      internalID: -7553853779105880946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IoT-Tileset_1
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 324
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 336c0d8f9cdbe7990800000000000000
+      internalID: -7386257663680526797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IoT-Tileset_2
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 324
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 344b9bb3638c891c0800000000000000
+      internalID: -4496624092673625021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IoT-Tileset_3
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 324
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 614af4cea4d927150800000000000000
+      internalID: 5868926209534960662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IoT-Tileset_4
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 324
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a644b3c451d338a0800000000000000
+      internalID: -6326482889534585177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IoT-Tileset_5
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 324
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc67d5d6e263c6b30800000000000000
+      internalID: 4281856918753736397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IoT-Tileset_6
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 324
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 455fc2adbb9114e10800000000000000
+      internalID: 2180051989233988948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IoT-Tileset_7
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 324
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae00bf53d17ed15d0800000000000000
+      internalID: -3090059656660582166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IoT-Tileset_8
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 324
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61ec1abdf66bdc030800000000000000
+      internalID: 3516667475588664854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IoT-Tileset_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 306
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73bf74492a22b32e0800000000000000
+      internalID: -2145082715844117705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IoT-Tileset_10
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 306
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be5371396d8c0f770800000000000000
+      internalID: 8642628508840310251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IoT-Tileset_11
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 306
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12612dfd4047bac40800000000000000
+      internalID: 5524636932183823905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IoT-Tileset_12
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 306
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e0dfef634cdd0550800000000000000
+      internalID: 6128796850120020197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IoT-Tileset_13
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 306
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ccb941000bd101e0800000000000000
+      internalID: -2233263147130962746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IoT-Tileset_14
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 306
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d6fc0d1d6ecc7200800000000000000
+      internalID: 179245053222123216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IoT-Tileset_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79703a8e5521cce10800000000000000
+      internalID: 2219168876571330455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IoT-Tileset_16
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01adf70476b77ecb0800000000000000
+      internalID: -4834759991564969456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IoT-Tileset_17
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 900be14a0aa891e00800000000000000
+      internalID: 1015995613501632521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IoT-Tileset_18
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 609952ac50cfdaa00800000000000000
+      internalID: 769548213146720518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IoT-Tileset_19
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d8eb9d96d70868a0800000000000000
+      internalID: -6311786259411113771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IoT-Tileset_20
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77d0c37870ffa5da0800000000000000
+      internalID: -5955167149445345929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IoT-Tileset_21
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 253
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf4f90dc3270a4ce0800000000000000
+      internalID: -1420314882136738564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IoT-Tileset_22
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 253
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edc2a878a979a5ef0800000000000000
+      internalID: -118615750217159458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IoT-Tileset_23
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 253
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 497d19a046c710610800000000000000
+      internalID: 1585685312927029140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IoT-Tileset_24
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 253
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96ddcb8ec55776aa0800000000000000
+      internalID: -6167832122758472343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IoT-Tileset_25
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 253
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64df8e568ea558cb0800000000000000
+      internalID: -4862380268487901882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IoT-Tileset_26
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 253
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d8fec5756da0e1d0800000000000000
+      internalID: -3323465873719625517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IoT-Tileset_27
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 253
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f41f1bac13de55f0800000000000000
+      internalID: -765942766522919695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IoT-Tileset_28
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 253
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79bee1ca1626549d0800000000000000
+      internalID: -2790716222447096937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IoT-Tileset_29
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 235
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ecb8f759882afa40800000000000000
+      internalID: 5402675273335880937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IoT-Tileset_30
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 235
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9915e3c68be28310800000000000000
+      internalID: 1405944997737732508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IoT-Tileset_31
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 235
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be2b91df790b4ddc0800000000000000
+      internalID: -3615070434038795541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IoT-Tileset_32
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 235
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6aea92f269a03f00800000000000000
+      internalID: 1094560951893158506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IoT-Tileset_33
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 235
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be1ef399eca1db170800000000000000
+      internalID: 8195736371520856555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IoT-Tileset_34
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 235
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7d9dce00504baf00800000000000000
+      internalID: 1129066844176358781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IoT-Tileset_35
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 235
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e405fa454c4498700800000000000000
+      internalID: 543040840099909710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IoT-Tileset_36
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 235
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 661ae624a53066ff0800000000000000
+      internalID: -43343460216954522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IoT-Tileset_37
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 235
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60c83dd3aaf72aff0800000000000000
+      internalID: -26318278652359674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IoT-Tileset_38
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 235
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1de67b889c14829c0800000000000000
+      internalID: -3951836339179655471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IoT-Tileset_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 217
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c7122d1f9014d100800000000000000
+      internalID: 131748564675205060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IoT-Tileset_40
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 217
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c43c7177a10282c70800000000000000
+      internalID: 8946435957810774860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IoT-Tileset_41
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 217
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bb4855c9255c6410800000000000000
+      internalID: 1471644816136227767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IoT-Tileset_42
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 217
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67843244926e34440800000000000000
+      internalID: 4919028282929924214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IoT-Tileset_43
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 217
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ed94500724a01420800000000000000
+      internalID: 2598757472409001440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IoT-Tileset_44
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 217
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8a00f88504982290800000000000000
+      internalID: -7914913593610466674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IoT-Tileset_45
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 217
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d66152abab59a9100800000000000000
+      internalID: 115569369670817389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IoT-Tileset_46
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 217
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdcb97881fd9a7b60800000000000000
+      internalID: 7744676169919347935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IoT-Tileset_47
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 217
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ab3695ca427ee750800000000000000
+      internalID: 6336127391224970144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IoT-Tileset_48
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 217
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 203f75be09ba3bb60800000000000000
+      internalID: 7760735221801546498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IoT-Tileset_49
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 217
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29ce74325128a3780800000000000000
+      internalID: -8702500302642221934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IoT-Tileset_50
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 217
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 006e13a100ef60760800000000000000
+      internalID: 7423900312159774208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IoT-Tileset_51
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 217
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d72f5f7d571fb18d0800000000000000
+      internalID: -2874438448709242243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IoT-Tileset_52
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 217
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbf7dab7f87d56ac0800000000000000
+      internalID: -3862444094145069123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IoT-Tileset_53
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 217
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfa3d0487fe8649a0800000000000000
+      internalID: -6249150239206458629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IoT-Tileset_54
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 217
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d10445c7b1d2e8bc0800000000000000
+      internalID: -3779033441244004323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IoT-Tileset_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 190
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad5063e143852eba0800000000000000
+      internalID: -6061185167618865702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IoT-Tileset_56
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 190
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a9324b744ab78870800000000000000
+      internalID: 8685115209695771049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IoT-Tileset_57
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 190
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50adc100e4960b740800000000000000
+      internalID: 5165744556324215301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IoT-Tileset_58
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 190
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2315202f1e80b92b0800000000000000
+      internalID: -5576853947047325390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IoT-Tileset_59
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 190
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02150c1fa19db27b0800000000000000
+      internalID: -5247862231021891296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IoT-Tileset_60
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 190
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90b1446f398423c00800000000000000
+      internalID: 878844677619718921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IoT-Tileset_61
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 172
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cd6540e1e3283420800000000000000
+      internalID: 2609875437098462663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IoT-Tileset_62
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 172
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdbdb0d8cad1eaaf0800000000000000
+      internalID: -383336291341968417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IoT-Tileset_63
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 172
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61fc9decf6dd2ad20800000000000000
+      internalID: 3288434150215372566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IoT-Tileset_64
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 172
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99e62077cc421afd0800000000000000
+      internalID: -2332542671412629863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IoT-Tileset_65
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 196
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8583a67f4b390fee0800000000000000
+      internalID: -1229320292817815464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IoT-Tileset_66
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 196
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e38b93da589babd70800000000000000
+      internalID: 9059757584197204030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IoT-Tileset_67
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 188
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 367667eec296ab090800000000000000
+      internalID: -8017980544879532189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IoT-Tileset_68
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 188
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dac75848d650009a0800000000000000
+      internalID: -6269004713366815571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IoT-Tileset_69
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 172
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75d05d7ede57305b0800000000000000
+      internalID: -5403345463257264809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IoT-Tileset_70
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 172
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26e3d006cfdec1b00800000000000000
+      internalID: 800776501964127842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IoT-Tileset_71
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 172
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbcb116660696bc10800000000000000
+      internalID: 2069006033049730237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IoT-Tileset_72
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 172
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18706f20e37ee1e90800000000000000
+      internalID: -7052945712891951231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IoT-Tileset_73
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 172
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65ea74ef8c33033f0800000000000000
+      internalID: -923180985258365354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IoT-Tileset_74
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 172
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c03f614d8c9e4a00800000000000000
+      internalID: 742703119064838339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IoT-Tileset_75
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 140
+        width: 16
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4d026bbbc79876b0800000000000000
+      internalID: -5298318060323467955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IoT-Tileset_76
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 140
+        width: 16
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be59576090ed633f0800000000000000
+      internalID: -921304943406246421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IoT-Tileset_77
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 140
+        width: 16
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56f9081b0aab91260800000000000000
+      internalID: 7068886289470234469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IoT-Tileset_78
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 140
+        width: 34
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98c3b95bffaa8a300800000000000000
+      internalID: 263648593441406089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IoT-Tileset_79
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 140
+        width: 16
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5b220686c36ced70800000000000000
+      internalID: 9073737053547670365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IoT-Tileset_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 110
+        width: 16
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eea60a8cc7cf7fdf0800000000000000
+      internalID: -146370849994151186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IoT-Tileset_81
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 110
+        width: 16
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0ea695faac86d950800000000000000
+      internalID: 6473516180284288525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IoT-Tileset_82
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 110
+        width: 16
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c60562e6e93cfa7f0800000000000000
+      internalID: -599045140196732820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IoT-Tileset_83
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 110
+        width: 34
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bd023487b46f6dd0800000000000000
+      internalID: -2490661329552929355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IoT-Tileset_84
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 110
+        width: 16
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9677b6e0b6974f10800000000000000
+      internalID: 2253935825051416223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IoT-Tileset_85
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 110
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d2e0118756827110800000000000000
+      internalID: 1257214956375433945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IoT-Tileset_86
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 110
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75dcde24e3a3aaaa0800000000000000
+      internalID: -6149038302135726761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IoT-Tileset_87
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 110
+        width: 48
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 961baa43cd8bfa210800000000000000
+      internalID: 1346498069522985321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IoT-Tileset_88
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 110
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 590ac2273d62c7020800000000000000
+      internalID: 2340788595921297557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IoT-Tileset_89
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 110
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4094d5db5f265e70800000000000000
+      internalID: 9103515768252043339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IoT-Tileset_90
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 110
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9036f4bc099abeb0800000000000000
+      internalID: -4703278580980371299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IoT-Tileset_91
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 110
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 993bfff8722e787c0800000000000000
+      internalID: -4069035078758452327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IoT-Tileset_92
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 85
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57236e2b44c435e30800000000000000
+      internalID: 4491017111361434229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IoT-Tileset_93
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 85
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b03ff21fc74423400800000000000000
+      internalID: 302379428400329483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IoT-Tileset_94
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 85
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18613f4b05df69080800000000000000
+      internalID: -9180872267273136511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IoT-Tileset_95
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 85
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66405d20f9fd302a0800000000000000
+      internalID: -6772323540594785178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IoT-Tileset_96
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 85
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 689acd32e0ff48920800000000000000
+      internalID: 2991796488677140870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IoT-Tileset_97
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 85
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a3785898f3022820800000000000000
+      internalID: 2891878276967986084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IoT-Tileset_98
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 85
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23452065df4f162f0800000000000000
+      internalID: -981233874883161038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IoT-Tileset_99
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 85
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb5a4b103b12d52f0800000000000000
+      internalID: -982592090985421381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IoT-Tileset_100
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 82
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 180d64527cb7d4640800000000000000
+      internalID: 5065841251115782273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IoT-Tileset_101
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 82
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f84d5206c3a9a400800000000000000
+      internalID: 335979718054332660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IoT-Tileset_102
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 82
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3feed477dcbfe3ca0800000000000000
+      internalID: -6035109590741422349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IoT-Tileset_103
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 82
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34a19f4adb569f330800000000000000
+      internalID: 3745136430326291011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IoT-Tileset_104
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 50
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e4c34a7a0c7e2800800000000000000
+      internalID: 589544985674892515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IoT-Tileset_105
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 50
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93cc9ddd49b2ccc40800000000000000
+      internalID: 5533845960508689465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IoT-Tileset_106
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 50
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e91a28e2f10090290800000000000000
+      internalID: -7923801935457377890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IoT-Tileset_107
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a2e25b209e1da890800000000000000
+      internalID: -7445261004422585687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IoT-Tileset_108
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 32
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f67c967ca6b0fc2b0800000000000000
+      internalID: -5562214461539235985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IoT-Tileset_109
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 32
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 366c8beadbdb29ec0800000000000000
+      internalID: -3561575732918827421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IoT-Tileset_110
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 0
+        width: 12
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f507a7bdab46a6c40800000000000000
+      internalID: 5506324248122781791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IoT-Tileset_111
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 0
+        width: 12
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e9abbe74f55941e0800000000000000
+      internalID: -2213143233289279001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IoT-Tileset_112
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b276c84fa06ea000800000000000000
+      internalID: 49082951904162484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IoT-Tileset_113
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 16
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cdf4f364cfdfe3f0800000000000000
+      internalID: -869230168475632185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IoT-Tileset_114
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 16
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 229a654cb01d0b500800000000000000
+      internalID: 410057414559574306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IoT-Tileset_115
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 0
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5289b7f478fa90d50800000000000000
+      internalID: 6704082516006639653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IoT-Tileset_116
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 0
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46d1ae9e3e0646440800000000000000
+      internalID: 4928170424248442212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IoT-Tileset_117
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 0
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcc86a20533d08cd0800000000000000
+      internalID: -2557812363715244853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IoT-Tileset_118
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 0
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 193409c1e2b129540800000000000000
+      internalID: 5013099220078445457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IoT-Tileset_119
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 0
+        width: 12
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f855cd7bd68974f0800000000000000
+      internalID: -830484379007100683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IoT-Tileset_120
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 0
+        width: 14
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2f1ba8ad198aaee0800000000000000
+      internalID: -1249035186165047510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IoT-Tileset_121
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3979433bd6a7d8a40800000000000000
+      internalID: 5372084542099462035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IoT-Tileset_122
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 0
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ca697cbe97f87580800000000000000
+      internalID: -8829034808320890172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IoT-Tileset_123
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 0
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea3200c8321b4eea0800000000000000
+      internalID: -5844351650189270098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IoT-Tileset_124
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fad242c7923a60800800000000000000
+      internalID: 578329000735419823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IoT-Tileset_125
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 0
+        width: 32
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb081ecdf12266ed0800000000000000
+      internalID: -2421210229419966274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IoT-Tileset_126
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 0
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d330ab634c04b8d80800000000000000
+      internalID: -8247427081123003587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
