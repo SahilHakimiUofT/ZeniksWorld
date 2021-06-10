@@ -6,7 +6,9 @@ public class PlayerController : MonoBehaviour
 {
 
     public static PlayerController instance;
-     
+    
+    public ParticleSystem dust;
+    public ParticleSystem blackDash;
 
     //dash vars
     public bool canDash;
@@ -101,7 +103,7 @@ public class PlayerController : MonoBehaviour
 
         if(Input.GetButtonDown("Jump"))
         {
-
+        CreateDust();    
         if(isGrounded)
         {
             theRB.velocity = new Vector2(theRB.velocity.x,jumpForce);
@@ -135,6 +137,7 @@ theSR.flipX =false;
     
     if(canDash && direction == 0 && !isHurt){
         if(Input.GetButtonDown("Fire1")){
+            blackDashPart();
         if(isGrounded){ 
         direction = 1;
         }else{
@@ -217,6 +220,12 @@ theSR.flipX =false;
         if(other.gameObject.tag == "Platform"){
             transform.parent = null;
         }
+    }
+    public void CreateDust(){
+        dust.Play();
+    }
+     public void blackDashPart(){
+        blackDash.Play();
     }
 
     }
